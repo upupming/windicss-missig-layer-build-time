@@ -68,4 +68,7 @@ h1 {
   color: blue;
   color: red;
   color: green;
+}.test-1 {
+  --tw-bg-opacity: 1;
+  background-color: rgba(233, 236, 239, var(--tw-bg-opacity));
 }

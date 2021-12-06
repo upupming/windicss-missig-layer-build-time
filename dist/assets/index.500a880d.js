@@ -44,3 +44,4 @@ var style = "";
 var windiBase = "";
 var windiComponents = "";
 var windiUtilities = "";
+var App_vue_vue_type_style_index_0_lang = "";
