@@ -1,16 +1,17 @@
-@layer base {
+@layer utilities {
     h1 {
-        color: green;
+        color: blue;
     }
 }
+
 @layer components {
     h1 {
         color: red;
     }
 }
 
-@layer utilities {
+@layer base {
     h1 {
-        color: blue;
+        color: green;
     }
 }
